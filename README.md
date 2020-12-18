@@ -126,6 +126,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [PaperColor](https://github.com/jonleopard/base16-papercolor-scheme) maintained by [jonleopard](https://github.com/jonleopard)
 * [Pasque](https://github.com/Misterio77/base16-pasque-scheme) maintained by [Misterio77](https://github.com/Misterio77)
 * [Porple](https://github.com/AuditeMarlow/base16-porple-scheme) maintained by [AuditeMarlow](https://github.com/AuditeMarlow)
+* [Prettylights](https://github.com/maeve/basse16-prettylights-scheme) maintained by [maeve](https://github.com/maeve)
 * [Purpledream](https://github.com/archmalet/base16-purpledream-scheme) maintained by [archmalet](https://github.com/archmalet)
 * [Rebecca](https://github.com/vic/base16-rebecca) maintained by [vic](https://github.com/vic)
 * [Sagelight](https://github.com/cveldy/base16-sagelight-scheme) maintained by [cveldy](https://github.com/cveldy)
